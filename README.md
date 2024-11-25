@@ -97,3 +97,8 @@ email-connection-tester/
 
 Разработано с ❤️ разработчиком [pome1lo](https://github.com/pome1lo).
 
+---
+
+## Полезные ссылки
+[How to Setup Gmail SMTP Server - Latest 2024](https://www.youtube.com/watch?v=kTcmbZqNiGw)
+
